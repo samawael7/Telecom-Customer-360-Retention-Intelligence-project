@@ -111,7 +111,7 @@ RISK_SCORE = MIN(100,
 - **Retention Priority Distribution (Donut Chart)** — توزيع العملاء بحسب فئات الخطورة
 - **Revenue at Risk by Customer Tenure (Stacked Bar Chart)** — الإيرادات المعرّضة للخطر موزّعة حسب مدة بقاء العميل معنا
 
-`[ضعي صورة Overview Dashboard هنا]`
+<img width="1256" height="694" alt="image" src="https://github.com/user-attachments/assets/3310e05a-9b25-47e6-abd4-8b8778beebe6" />
 
 ### 2) Retention Priority Dashboard
 تحليل عميق للعملاء الأكثر خطورة وأسباب المشاكل، لتحديد التدخلات السريعة.
@@ -127,7 +127,7 @@ RISK_SCORE = MIN(100,
 - **Issues Driving Retention Risk (Bar Chart)** — أبرز الأسباب الجذرية (Billing, Internet, Network, Plan...) اللي بتدفع العملاء نحو الخطر
 - **Customer Table (Detailed Grid)** — تفاصيل العملاء كاملة (الأرقام، درجات الخطورة، القيمة، الإيرادات، عدد الشكاوى) لاتخاذ إجراء مباشر
 
-`[ضعي صورة Retention Priority Dashboard هنا]`
+<img width="1248" height="697" alt="image" src="https://github.com/user-attachments/assets/6421eeff-b987-4b9a-b292-84c33089ae0b" />
 
 ### 3) Customer Service Dashboard
 متابعة أداء الدعم الفني، حالة التذاكر، وسرعة الاستجابة.
@@ -142,7 +142,7 @@ RISK_SCORE = MIN(100,
 - **Resolution Time vs Customer Satisfaction by Issue (Combo Chart)** — هل نوع المشكلة بيأثر على سرعة الحل، وهل ده بينعكس على رضا العملاء؟
 - **Satisfaction Trend (Line Chart)** — تطور مستوى رضا العملاء عبر الوقت
 
-`[ضعي صورة Customer Service Dashboard هنا]`
+<img width="1256" height="697" alt="image" src="https://github.com/user-attachments/assets/9fac0baa-a9b6-4d0b-a516-3e1151f77a53" />
 
 ---
 
