@@ -1,4 +1,4 @@
-# 📡 Telecom Customer 360 & Retention Intelligence
+# 📡 Telecom Customer 360 & Retention Intelligence 🎧
 
 نظام Data Warehouse متكامل لشركة تليكوم، بيوحّد 3 أنظمة منفصلة (CRM، Billing، Customer Service) في نجمة بيانات واحدة (Star Schema)، بيحافظ على تاريخ العميل كامل عبر الزمن (SCD Type 2)، وبيطلّع قايمة أولويات احتفاظ بالعملاء (Retention Priority List) مبنية على بيانات حقيقية ومقاييس قابلة للتنفيذ — من غير أي فلترة أو تجميل، مع نظام رفض وتوثيق كامل لأي بيانات معرفناش نربطها.
 
